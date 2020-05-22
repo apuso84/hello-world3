@@ -2,6 +2,7 @@
 my lesson
 
 Yoshihiro here,I love Hawaii.
+I love :coffee::pizza::beer:
 
 
 # 　オクトリンク株式会社　スマートフォン対応
@@ -17,3 +18,6 @@ Yoshihiro here,I love Hawaii.
 ## ファイル構成
 
 ## リリース方法
+
+I love :baseball::carlling:fuladanser:
+
